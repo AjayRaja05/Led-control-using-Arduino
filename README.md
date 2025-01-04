@@ -58,9 +58,12 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+https://github.com/Surigit2006/Led-control-using-Arduino/blob/main/README.md
 
 ## PROGRAM
 
 ## OUTPUT
 
 ## RESULT
+The code tells the Arduino to turn the LED on as long as the button is being pressed (completing the circuit), and to keep the LED off when the button is not being pressed
+
