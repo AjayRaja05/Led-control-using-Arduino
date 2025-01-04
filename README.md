@@ -58,7 +58,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-https://github.com/Surigit2006/Led-control-using-Arduino/blob/main/README.md
+
 
 ## PROGRAM
 
